@@ -1,1 +1,3 @@
-Hey, I'm gay.
+---
+title: Hey, I'm gay.
+---
